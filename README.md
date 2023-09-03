@@ -98,7 +98,7 @@ function limpiarForm() {
 
 ## Integrantes (Grupo 1)
 
-* [Ana Jazmin Vazquez]("https://github.com/AJVazquez27")
-* [Natalia Anahí Vizcarra Savino]("https://github.com/NeitRoot")
-* [Juan Cruz Musi]("https://github.com/JuanMusi")
-* [Jorge Caballero]("https://github.com/jorgecaballer0")
+* [Ana Jazmin Vazquez](https://github.com/AJVazquez27)
+* [Natalia Anahí Vizcarra Savino](https://github.com/NeitRoot)
+* [Juan Cruz Musi](https://github.com/JuanMusi)
+* [Jorge Caballero](https://github.com/jorgecaballer0)
